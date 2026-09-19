@@ -3,7 +3,7 @@
 Hello everyone\! 👋
 
 
-**Live Demo:** [https://ekizr.com](https://ekizr.com)
+**Live Demo:** https://admirable-cascaron-11ec35.netlify.app/
 
 ---
 
